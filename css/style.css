@@ -27,3 +27,24 @@
   height: 120px;
   border-radius: 70%;
 }
+
+@media (max-width: 1250px) {
+  .d-md-flex {
+    padding-bottom:20px;
+  }
+
+  .company-title {
+    padding: 10px;
+  }
+
+  .features-list {
+    height: 350px;
+    margin-bottom: 145px;
+    margin-top: 0px;
+  }
+
+  .testimonial-box {
+    margin: 0px;
+  }
+
+}
